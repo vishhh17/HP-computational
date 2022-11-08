@@ -8,7 +8,8 @@ INSTRUCTIONS:
 
 INPUT:
 
-- Default values for all the geometric and thermo-physical properties of the said solid-liquid pairs are added to the codes, please feel free to alter them as per your convenience.
+- Default values for all the geometric and thermo-physical properties of the said solid-liquid pairs are added to the codes, please feel free to alter the geometric properties as per your convenience.
+- Altering the thermo-physical properties of the fluids may result in errorsome outputs due to the changes in Poiseuillés Number.
 
 
 
