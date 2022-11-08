@@ -16,5 +16,4 @@ INPUT:
 OUTPUT:
 
 - The models generate values of Maximum Heat Transfer (Q_Max) and Effective Thermal Resistence (R_th) for a given heat-pipe.
-
 - The Plots of several thermo-physical properties of the working-fluid are also generated with respect to the location in the axial direction.
